@@ -1,0 +1,22 @@
+{
+  "name": "rssr-storage",
+  "version": "0.1.0",
+  "description": "set, get, remove and check isSet for localStorage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rssr-org/rssr-storage.git"
+  },
+  "keywords": [
+    "cookie"
+  ],
+  "author": "rssr-org",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rssr-org/rssr-storage/issues"
+  },
+  "homepage": "https://github.com/rssr-org/rssr-storage#readme"
+}

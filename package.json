@@ -11,7 +11,7 @@
     "url": "git+https://github.com/rssr-org/rssr-storage.git"
   },
   "keywords": [
-    "cookie"
+    "localstorage", "web storage"
   ],
   "author": "rssr-org",
   "license": "MIT",
